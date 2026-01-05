@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ServiceBid - Den Ultimative Tjeneste-appen",
+  "description": "En premium plattform for anbudstjenester med innebygd chat, kartposisjonering, Vipps-betaling, og til og med et Tetris-spill for ventetiden.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
